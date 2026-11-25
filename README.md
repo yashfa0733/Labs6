@@ -1,2 +1,2 @@
-# Lab 05 — Smart Billing System
-JavaScript practice: products as objects, cart array, functions, quantity validation, subtotal, discount, tax, invoice number/date and print invoice. Open `index.html` in a browser. This demo does not save invoices to a server.
+# Lab 06 — Student Management Frontend
+Features: DOM-based add/edit/delete, validation, search, department and semester filters, record count cards, localStorage persistence, JSON import/export. Open `index.html` in a browser. Data remains in that browser only.
